@@ -26,19 +26,14 @@ This web application provides all the details of the requested movie such as ove
 
 <img width="1438" alt="Screenshot 2022-05-29 at 7 38 08 PM" src="https://user-images.githubusercontent.com/81583289/170873862-08d65dd7-aec1-4c07-a880-82df00bb5081.png">
 
-2. <b> Feedback form </b>
-- One of the most important part of Agile is feedback, therefore the app has a feedback form in the footer
-
-<img width="1438" alt="Screenshot 2022-05-29 at 7 38 30 PM" src="https://user-images.githubusercontent.com/81583289/170873875-48184464-724e-4851-8811-4141c6f629e0.png">
-
-3. <b> Sign IN/Sign UP page </b>
+2. <b> Sign IN/Sign UP page </b>
 - Users can register themselves on the app and login into their accounts using the credentials
 
 <img width="1438" alt="Screenshot 2022-05-29 at 7 39 01 PM" src="https://user-images.githubusercontent.com/81583289/170873931-04e2f68e-dcc6-47a6-9b49-72de05e088da.png">
 
 <img width="1438" alt="Screenshot 2022-05-29 at 7 39 09 PM" src="https://user-images.githubusercontent.com/81583289/170873939-6fbb15e3-ab1f-4437-9da6-6815b88159b2.png">
 
-4. <b> Searching the movie </b>
+3. <b> Searching the movie </b>
 - Enter the movie's name you want to get recommendations of 
 
 <img width="1438" alt="Screenshot 2022-05-29 at 7 39 44 PM" src="https://user-images.githubusercontent.com/81583289/170873955-855b73a1-738f-4ac5-a2f9-f891e7c0198e.png">
@@ -55,7 +50,7 @@ This web application provides all the details of the requested movie such as ove
 
 <img width="1438" alt="Screenshot 2022-05-29 at 7 40 40 PM" src="https://user-images.githubusercontent.com/81583289/170874049-d5c69dc9-014a-4e8c-b44c-bbb84043c562.png">
 
-5. <b>Recommendation</b> 
+4. <b>Recommendation</b> 
 
 - The app then finally suggests movies similar to the likes of user 
 
